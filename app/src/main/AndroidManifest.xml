@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="org.snowcorp.firebase.auth">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.staystrong.ForgetAndChangePasswordActivity"></activity>
+        <activity android:name="com.example.staystrong.RegisterActivity" />
+        <activity android:name="com.example.staystrong.LoginActivity" />
+        <activity android:name="com.example.staystrong.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.staystrong.RegisterActivity"
+            android:label="Sign up"
+            android:parentActivityName="com.example.staystrong.LoginActivity"
+            tools:ignore="DuplicateActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.staystrong.LoginActivity" />
+        </activity>
+        <activity
+            android:name="com.example.staystrong.MainActivity"
+            android:label="@string/app_name"
+            tools:ignore="DuplicateActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772261458122",
+    "firebase_url": "https://stay-strong-bc3eb.firebaseio.com",
+    "project_id": "stay-strong-bc3eb",
+    "storage_bucket": "stay-strong-bc3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772261458122:android:54adaf2ce1330559",
+        "android_client_info": {
+          "package_name": "com.example.staystrong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772261458122-gf6u9iuf0gul8laqu684l0quufn2u239.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.staystrong",
+            "certificate_hash": "d03d91fd80c4cc5e76e4dab48155e98021be8350"
+          }
+        },
+        {
+          "client_id": "772261458122-qfd80rrok3a3e4hs69h6rd60qakbb8rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoGsAzHsNpmt-BvfxqjKHLY7hQ-pN4kPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772261458122-qfd80rrok3a3e4hs69h6rd60qakbb8rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
