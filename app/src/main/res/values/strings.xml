@@ -1,9 +1,29 @@
+<?xml version="1.0"?>
+
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Hack19</string>
+    <string name="feed">Social Media Feed</string>
+    <string name="like">
+<u>Like</u>
+
+</string>
+
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="post">Post</string>
+    <string name="newfeed">New Feed</string>
+
+
+    <string name="name">
+
+<b>First Name</b>
+</string>
+    <string name="sur_name">
+<b>Surname</b>
+</string>
+    <string name="dialog_text">"What's on your mind? Be respectful!</string>
+    <string name="nav_header_desc">Header Description</string>
+    <string name="nav_header_title">Header Title</string>
+    <string name="nav_header_subtitle">Header Subtitle</string>
+    <string name="action_settings">ACTION SETTINGS</string>
 </resources>
