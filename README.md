@@ -19,6 +19,9 @@ What's next is to dedicate more time to continue developing and adding more well
 Technologies Used:
 
 Java
+
 Android Studio
+
 Google Cloud Firebase
+
 Google Maps API
