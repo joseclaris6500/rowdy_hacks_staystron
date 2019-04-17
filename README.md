@@ -17,6 +17,7 @@ What's next for Stay Strong:
 What's next is to dedicate more time to continue developing and adding more well-thought out features to the app. Also to covert it into the iOS platform.
 
 Technologies Used:
+
 Java
 Android Studio
 Google Cloud Firebase
